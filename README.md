@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first  Git Repositry 
+This is my first  Git Repository 
 <br>
-Auther- Ali Hassan
+Author - Ali Hassan
